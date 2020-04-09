@@ -1,8 +1,14 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "foobar",
+  "license": "MIT",
+  "version": "1.2.0",
   "dependencies": {
-    "express": "^4.14.0"
+    "package-name": "version",
+    "express": "^4.14.0",
+    "helmet": "^3.14.0"
+    "dependency1": "^major.minor.patch"
+    "moment": "^2.10.2"
   },
   "main": "server.js",
   "scripts": {
